@@ -1,0 +1,24 @@
+<img id="crate_b_1" src="https://github.com/kbnvch/crates/blob/main/cr_blue1.png?raw=true">
+<img id="crate_b_2" src="https://github.com/kbnvch/crates/blob/main/cr_blue2.png?raw=true">
+<img id="crate_b_3" src="https://github.com/kbnvch/crates/blob/main/cr_blue3.png?raw=true">
+<img id="crate_b_4" src="https://github.com/kbnvch/crates/blob/main/cr_blue4.png?raw=true">
+<img id="crate5" src="https://github.com/kbnvch/crates/blob/main/cr5.png?raw=true">
+
+<img id="crate_r_1" src="https://github.com/kbnvch/crates/blob/main/cr_red1.png?raw=true">
+<img id="crate_r_2" src="https://github.com/kbnvch/crates/blob/main/cr_red2.png?raw=true">
+<img id="crate_r_3" src="https://github.com/kbnvch/crates/blob/main/cr_red3.png?raw=true">
+<img id="crate_r_4" src="https://github.com/kbnvch/crates/blob/main/cr_red4.png?raw=true">
+
+<img id="blueRing" src="https://github.com/kbnvch/crates/blob/main/blue_ring3.png?raw=true">
+<img id="redRing" src="https://github.com/kbnvch/crates/blob/main/red_ring3.png?raw=true">
+
+<img id="ground" src="https://github.com/kbnvch/crates/blob/main/ground2.png?raw=true">
+
+
+
+<img id="HammerImage" src="https://github.com/kbnvch/bla/blob/main/hammer01.png?raw=true">
+<img id="BGImage" src="https://github.com/kbnvch/crates/blob/main/bg00.jpg?raw=true">
+
+    
+<script type="text/javascript" src="{{ 'matter.min.js' | asset_url }}"></script>
+<script type="text/javascript" src="{{ 'aaa6.js' | asset_url }}"></script>
